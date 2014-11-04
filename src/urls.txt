@@ -1,0 +1,2 @@
+application/json|post|http://192.168.1.123:8181/api/location/|200|1|X-Auth-Token|{}
+application/json|post|http://192.168.1.123:8181/api/user/login|200|1|X-Auth-Token11|{"uid":"test1","password":"6/sPBvSQkx2lxyEx1ToQgw=="}
